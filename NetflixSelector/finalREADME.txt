@@ -21,8 +21,6 @@ titleExtras.csv
 
 Instructions to compile:
 
-We included a video of all of these steps in case you had any difficulty! It's called set up demo.
-
 1. Open netflixsqldump.sql in datagrip
 2. Right click on the file name and press 'run netflixsqldump.sql'
 3. After pressing run, press the plus sign under target data host 
